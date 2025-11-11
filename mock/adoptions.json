@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Toby",
+        "location": "New York, NY",
+        "description": "Lovable dog with heterocromic eyes looking for a forever home.",
+        "image": "images/perro_1.jpg",
+        "isAdvertisement": false
+    },
+    {
+        "title": "Bella",
+        "location": "Los Angeles, CA",
+        "description": "Playful kitten who loves to cuddle and explore.",
+        "image": "images/perro_1.jpg",
+        "isAdvertisement": false
+    },
+    {
+        "title": "Charlie",
+        "location": "Chicago, IL",
+        "description": "Energetic puppy who loves to play fetch.",
+        "image": "images/perro_1.jpg",
+        "isAdvertisement": false
+    },
+    {
+        "title": "Shampoo for pets!",
+        "store": "Pet Care",
+        "website": "www.petcare.com",
+        "description": "Keep your furry friends clean and fresh with our new pet shampoo. Special offer inside!",
+        "image": "images/perro_1.jpg",
+        "isAdvertisement": true
+    },
+    {
+        "title": "Daisy",
+        "location": "Miami, FL",
+        "description": "Gentle rabbit who enjoys quiet companionship.",
+        "image": "images/perro_1.jpg",
+        "isAdvertisement": false
+    },
+    {
+        "title": "Pet Adoption Fair",
+        "store": "Pet Store",
+        "website": "www.petstore.com",
+        "description": "Join us for a day of fun and furry friends at our Pet Adoption Fair!",
+        "image": "images/perro_1.jpg",
+        "isAdvertisement": true
+    },
+    {
+        "title": "Fluffy",
+        "location": "Seattle, WA",
+        "description": "Adorable kitten with a fluffy coat looking for a loving home.",
+        "image": "images/perro_1.jpg",
+        "isAdvertisement": false
+    }
+]

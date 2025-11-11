@@ -1,0 +1,17 @@
+[
+    {
+        "path": "/",
+        "tooltip": "Adoptions",
+        "icon": "icons/adoptions.svg"
+    },
+    {
+        "path": "/account",
+        "tooltip": "Account",
+        "icon": "icons/user.svg"
+    },
+    {
+        "path": "/pets",
+        "tooltip": "Pets",
+        "icon": "icons/paw.svg"
+    }
+]
